@@ -9,7 +9,7 @@ project. The application uses Java/Javafx for Front-End, JDBC to access MySQL da
 
 ## Front-End
 
-Calendarfx is used to design calendar. The main features of our calendar are:
+Calendarfx is used to design calendar. The main features of our calendar are :
 
 • Calendar consists of day, week, month, and year view.
 
