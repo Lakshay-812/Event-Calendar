@@ -1,5 +1,4 @@
 # Event-Calendar
-Refer to the the project file Event Calendar.pdf to know the features.
 
 A desktop calendar application that stores various events like your day-to-day events, important dates,
 holidays, festivals, university events etc. One of the main features of this application is that it gives you 
